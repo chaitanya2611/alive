@@ -1,0 +1,14 @@
+{
+  "name": "alive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keepAlive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "corn": "^0.0.1"
+  }
+}
